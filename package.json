@@ -1,0 +1,21 @@
+{
+  "name": "people-efficiency-operating-cockpit",
+  "version": "0.6.6",
+  "private": true,
+  "description": "业、人、财一体化的人效经营分析与数据闭环离线原型（V6.6.1 用户确认基线）",
+  "type": "module",
+  "scripts": {
+    "validate": "node scripts/validate-prototype.mjs"
+  },
+  "keywords": [
+    "people-analytics",
+    "hr-analytics",
+    "business-intelligence",
+    "dashboard",
+    "data-governance",
+    "prototype"
+  ],
+  "engines": {
+    "node": ">=18"
+  }
+}
